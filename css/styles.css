@@ -233,3 +233,25 @@ footer {
     opacity: 1;
   }
 }
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlights {
+    grid-template-columns: 1fr;
+    padding: 10px;
+  }
+
+  .intro img {
+    max-width: 70%;
+  }
+
+  .contact-form {
+    margin: 20px;
+    padding: 20px;
+  }
+}
