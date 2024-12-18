@@ -1,1 +1,90 @@
 # Hw-Wab66160003
+- git checkout -b development
+- git branch
+- git add .
+- git commit -m "สรางโครงสรางเวบไซตเรมตน"
+- git checkout -b feature/homepage
+- git add .
+- git commit -m "สร้างหน้า home-page"
+- git add .
+- git commit -m "ใส่รูปภาพ"
+- git add .
+- git commit -m "เพม css ตกแตงหนา home-page"
+- git checkout -b development
+- git checkout development
+- git b
+- git branch
+- git checkout -b feature/details-page
+- git add .
+- git commit -m "สรางหนา details-page"
+- history
+- git checkout development
+- git branch
+- git checkout feature/homepage
+- git status
+- git add .
+- git commit -m "เพม css ตกแตงเพมเตม"
+- git add .
+- git commit -m "เพม css ใหเวบเปน Responsive"
+- git checkout feature/details-page
+- git checkout -b feature/contact-page
+- git checkout development
+- git checkout feature/contact-page
+- git branch
+- git add .
+- git commit -m "สรางหนา contact-page"
+- history
+- git add .
+- git commit -m "เพมขอมลการตดตอ"
+- history
+- git reset
+- git branch
+- git reset --hard
+- history
+- git checkout main
+- git checkout development
+- git checkout main
+- git reset --hard
+- git init
+- history
+- git branch
+- git reset
+- history
+- git checkout development
+- git checkout feature/homepage
+- git add .
+- git commit -m "เพิ่มแก้ไขข้อมูลหน้า index"
+- git add .
+- git commit -m "ตกแตง css เพมเตม"
+- history
+- git branch
+- git checkout feature/details-page
+- git add .
+- git commit -m "แก้ไขข้อมูลหน้า details"
+- history
+- git checkout feature/contact-page
+- git checkout feature/details-page
+- git add .
+- git commit -m "เพมขอมลทตงหนา details spot1"
+- git commit -m "เพมขอมลทตงหนา details spot2"
+- git add .
+- git commit -m "เพมขอมลทตงหนา details spot2"
+- git add .
+- git commit -m "เพมขอมลทตงหนา details spot3"
+- git add .
+- git commit -m "เพมขอมลทตงหนา details spot4"
+- git add .
+- git commit -m "เพมขอมลทตงหนา details spot5"
+- history
+- git branch
+- git checkout feature/homepage
+- git add .
+- git commit -m "แกไขขอมลหนา index"
+- history
+- git add .
+- git commit -m "แก้ไข highlight-alt"
+- git checkout main
+- git branch
+- git merge feature/homepage
+- git merge feature/details-page
+- git merge feature/contact-page
